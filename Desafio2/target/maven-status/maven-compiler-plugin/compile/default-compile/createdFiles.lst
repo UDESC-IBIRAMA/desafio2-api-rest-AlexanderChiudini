@@ -1,0 +1,6 @@
+br\com\udesc\desafio02\model\Veiculo.class
+br\com\udesc\desafio02\rest\ResourceVehicle.class
+br\com\udesc\desafio02\model\Veiculo_.class
+br\com\udesc\desafio02\rest\ApplicationConfig.class
+br\com\udesc\desafio02\dao\VeiculoDao.class
+br\com\udesc\desafio02\dao\GenericDao.class
